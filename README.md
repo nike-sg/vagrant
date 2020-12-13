@@ -8,6 +8,6 @@ vagrant up
 ```
 
 ## Conexão do mysql
-Host: 192.168.50.10
-User: user1
-Pass: user1
+Host: 192.168.50.10 <br>
+User: user1 <br>
+Pass: user1 <br>
