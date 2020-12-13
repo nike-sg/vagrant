@@ -1,5 +1,5 @@
 # Vagrant File
-### Vagrant File que sobe uma máquina virtual com MySQL instalado esteja acessível na máquina (Porta 3306) 
+Vagrant File que sobe uma máquina virtual com MySQL instalado esteja acessível na máquina (Porta 3306) 
 
 
 ## Comandos
